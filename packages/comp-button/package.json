@@ -1,0 +1,37 @@
+{
+  "name": "@hasancolak/comp-button",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "license": "ISC",
+  "main": "dist/comp-button.cjs.js",
+  "module": "dist/comp-button.esm.js",
+  "src": "src/comp-button.js",
+  "directories": {
+    "test": "__tests__"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasancolak/comp-base.git"
+  },
+  "scripts": {
+    "build": "comp-builder",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@hasancolak/comp-builder": "^1.0.0",
+    "react": "^17.0.0"
+  },
+  "dependencies": {
+    "clsx": "^1.1.0"
+  }
+}

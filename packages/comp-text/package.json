@@ -7,6 +7,7 @@
   "license": "ISC",
   "main": "dist/comp-text.cjs.js",
   "module": "dist/comp-text.esm.js",
+  "src": "src/comp-text.js",
   "directories": {
     "src": "src",
     "test": "__tests__"

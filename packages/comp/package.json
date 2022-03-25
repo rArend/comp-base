@@ -5,6 +5,7 @@
   "license": "ISC",
   "main": "dist/comp.cjs.js",
   "module": "dist/comp.esm.js",
+  "src": "src/comp.js",
   "directories": {
     "src": "src",
     "test": "__tests__"

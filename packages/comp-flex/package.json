@@ -1,6 +1,6 @@
 {
   "name": "@rarend/comp-flex",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-flex.cjs.js",
@@ -28,7 +28,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@rarend/comp-builder": "^0.0.5",
+    "@rarend/comp-builder": "^0.1.0",
     "react": "^17.0.0"
   },
   "dependencies": {

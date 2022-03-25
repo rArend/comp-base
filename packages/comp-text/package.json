@@ -1,6 +1,6 @@
 {
   "name": "@rarend/comp-text",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Comp text desc",
   "keywords": [],
   "author": "HC",
@@ -29,7 +29,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@rarend/comp-builder": "^0.0.5",
+    "@rarend/comp-builder": "^0.1.0",
     "react": "^17.0.0"
   },
   "dependencies": {

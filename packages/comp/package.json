@@ -1,6 +1,6 @@
 {
   "name": "@rarend/comp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp.cjs.js",
@@ -24,11 +24,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rarend/comp-button": "^0.0.1",
-    "@rarend/comp-text": "^0.0.1",
-    "@rarend/comp-flex": "^0.0.1"
+    "@rarend/comp-button": "^0.0.2",
+    "@rarend/comp-flex": "^0.0.2",
+    "@rarend/comp-text": "^0.0.2"
   },
   "devDependencies": {
-    "@rarend/comp-builder": "^0.0.1"
+    "@rarend/comp-builder": "^0.0.2"
   }
 }

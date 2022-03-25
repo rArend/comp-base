@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-import { Button, Text } from '@rarend/comp';
+import { Button, Text, Flex } from '@rarend/comp';
 
 // TODO: DEMONSTRATE API
 ```

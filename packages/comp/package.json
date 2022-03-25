@@ -1,5 +1,5 @@
 {
-  "name": "@hasancolak/comp",
+  "name": "@rarend/comp",
   "version": "0.0.2",
   "description": "> TODO: description",
   "license": "ISC",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasancolak/comp-base.git"
+    "url": "git+https://github.com/rarend/comp-base.git"
   },
   "scripts": {
     "build": "comp-builder",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@hasancolak/comp-button": "^0.0.2",
-    "@hasancolak/comp-text": "^0.0.2"
+    "@rarend/comp-button": "^0.0.2",
+    "@rarend/comp-text": "^0.0.2"
   },
   "devDependencies": {
-    "@hasancolak/comp-builder": "^0.0.2"
+    "@rarend/comp-builder": "^0.0.2"
   }
 }

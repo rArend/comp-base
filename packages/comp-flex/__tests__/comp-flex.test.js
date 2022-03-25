@@ -1,5 +1,5 @@
 'use strict';
 
-describe('@rarend/comp-button', () => {
+describe('@rarend/comp-flex', () => {
   it('needs tests');
 });

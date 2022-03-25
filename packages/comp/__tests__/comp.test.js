@@ -1,5 +1,5 @@
 'use strict';
 
-describe('@hasancolak/comp', () => {
+describe('@rarend/comp', () => {
   it('needs tests');
 });

@@ -1,12 +1,11 @@
 {
-  "name": "@rarend/comp-text",
-  "version": "0.0.2",
-  "description": "Comp text desc",
-  "keywords": [],
-  "author": "HC",
+  "name": "@rarend/comp-flex",
+  "version": "0.0.1",
+  "description": "> TODO: description",
   "license": "ISC",
-  "main": "dist/comp-text.cjs.js",
-  "module": "dist/comp-text.esm.js",
+  "main": "dist/comp-flex.cjs.js",
+  "module": "dist/comp-flex.esm.js",
+  "src": "src/comp-flex.js",
   "directories": {
     "src": "src",
     "test": "__tests__"
@@ -29,8 +28,9 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@rarend/comp-builder": "^0.0.2",
-    "react": "^17.0.0"
+    "@rarend/comp-builder": "^0.0.1",
+    "react": "^17.0.0",
+    "typescript": "^4.1.3"
   },
   "dependencies": {
     "clsx": "^1.1.0"

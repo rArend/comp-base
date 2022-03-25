@@ -1,11 +1,11 @@
-# `@hasancolak/comp-builder`
+# `@rarend/comp-builder`
 
 > TODO: description
  
 ## Usage
 
 ```
-const compBuilder = require('@hasancolak/comp-builder');
+const compBuilder = require('@rarend/comp-builder');
 
 // TODO: DEMONSTRATE API 
 ```

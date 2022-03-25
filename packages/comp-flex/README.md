@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-import { Button } from '@rarend/comp-button'
+import { Flex } from '@rarend/comp-flex'
 
 // TODO: DEMONSTRATE API
 ```

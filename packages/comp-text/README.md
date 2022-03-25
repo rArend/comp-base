@@ -1,11 +1,11 @@
-# `@hasancolak/comp-text`
+# `@rarend/comp-text`
 
 > TODO: description 
 
 ## Usage 
 
 ```
-import {Text} from '@hasancolak/comp-text';
+import {Text} from '@rarend/comp-text';
 
 // TODO: DEMONSTRATE API
 ```

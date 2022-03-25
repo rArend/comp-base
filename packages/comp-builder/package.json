@@ -1,5 +1,5 @@
 {
-  "name": "@hasancolak/comp-builder",
+  "name": "@rarend/comp-builder",
   "version": "0.0.2",
   "description": "",
   "keywords": [],
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasancolak/comp-base.git"
+    "url": "git+https://github.com/rarend/comp-base.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

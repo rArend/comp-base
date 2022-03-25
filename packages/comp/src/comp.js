@@ -1,4 +1,4 @@
-import { Button } from '@hasancolak/comp-button';
-import { Text } from '@hasancolak/comp-text';
+import { Button } from '@rarend/comp-button';
+import { Text } from '@rarend/comp-text';
 
 export { Button, Text};

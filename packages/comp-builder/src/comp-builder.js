@@ -13,7 +13,7 @@ const { src, name } = require(path.join(currentWorkingPath, 'package.json'));
 const inputPath = path.join(currentWorkingPath, src);
 
 // Little hack to just get the file name
-const fileName = name.replace('@hasancolak/', '');
+const fileName = name.replace('@rarend/', '');
 
 // see below for details on the options
 const inputOptions = {

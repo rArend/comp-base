@@ -1,6 +1,6 @@
 {
   "name": "@hasancolak/comp-button",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-button.cjs.js",
@@ -28,7 +28,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@hasancolak/comp-builder": "^1.0.0",
+    "@hasancolak/comp-builder": "^0.0.1",
     "react": "^17.0.0"
   },
   "dependencies": {

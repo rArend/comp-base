@@ -1,6 +1,6 @@
 {
   "name": "@hasancolak/comp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp.cjs.js",
@@ -25,10 +25,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@hasancolak/comp-button": "^1.0.0",
-    "@hasancolak/comp-text": "^1.0.0"
+    "@hasancolak/comp-button": "^0.0.1",
+    "@hasancolak/comp-text": "^0.0.1"
   },
   "devDependencies": {
-    "@hasancolak/comp-builder": "^1.0.0"
+    "@hasancolak/comp-builder": "^0.0.1"
   }
 }

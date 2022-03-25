@@ -5,12 +5,10 @@
   "license": "ISC",
   "main": "dist/comp-button.cjs.js",
   "module": "dist/comp-button.esm.js",
-  "src": "src/comp-button.js",
   "directories": {
     "test": "__tests__"
   },
   "files": [
-    "src",
     "dist"
   ],
   "publishConfig": {

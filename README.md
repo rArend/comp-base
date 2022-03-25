@@ -1,4 +1,4 @@
-# ladenzeile-component
+# multi repo base-component lib
 
 React UI Library with CSS Modules
 
